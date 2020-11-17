@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/goraft/raft/protobuf"
+	"github.com/zhubby/raft/protobuf"
 )
 
 //------------------------------------------------------------------------------
